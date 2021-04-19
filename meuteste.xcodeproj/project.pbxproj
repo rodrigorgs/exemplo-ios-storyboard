@@ -13,6 +13,7 @@
 		9721CE5F262DF46800E6BC46 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9721CE5D262DF46800E6BC46 /* Main.storyboard */; };
 		9721CE61262DF46900E6BC46 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9721CE60262DF46900E6BC46 /* Assets.xcassets */; };
 		9721CE64262DF46900E6BC46 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9721CE62262DF46900E6BC46 /* LaunchScreen.storyboard */; };
+		9721CE71262E005D00E6BC46 /* SegundoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9721CE70262E005D00E6BC46 /* SegundoViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		9721CE60262DF46900E6BC46 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9721CE63262DF46900E6BC46 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9721CE65262DF46900E6BC46 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9721CE70262E005D00E6BC46 /* SegundoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SegundoViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				9721CE57262DF46800E6BC46 /* AppDelegate.swift */,
 				9721CE59262DF46800E6BC46 /* SceneDelegate.swift */,
 				9721CE5B262DF46800E6BC46 /* ViewController.swift */,
+				9721CE70262E005D00E6BC46 /* SegundoViewController.swift */,
 				9721CE5D262DF46800E6BC46 /* Main.storyboard */,
 				9721CE60262DF46900E6BC46 /* Assets.xcassets */,
 				9721CE62262DF46900E6BC46 /* LaunchScreen.storyboard */,
@@ -139,6 +142,7 @@
 			files = (
 				9721CE5C262DF46800E6BC46 /* ViewController.swift in Sources */,
 				9721CE58262DF46800E6BC46 /* AppDelegate.swift in Sources */,
+				9721CE71262E005D00E6BC46 /* SegundoViewController.swift in Sources */,
 				9721CE5A262DF46800E6BC46 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
